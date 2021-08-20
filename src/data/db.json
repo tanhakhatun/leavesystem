@@ -1,0 +1,29 @@
+{
+ "data" : [
+   {
+     "id": 1,
+     "name": "rahul",
+     "password": "rahul@123"
+   },
+   {
+     "id": 1,
+     "name": "harry",
+     "password": "harry@123"
+   },
+   {
+     "id": 1,
+     "name": "raj",
+     "password": "raj@123"
+   },
+   {
+     "id": 1,
+     "name": "jack",
+     "password": "jack@123"
+   },
+   {
+     "id": 1,
+     "name": "aman",
+     "password": "aman@123"
+   }
+ ]
+}
